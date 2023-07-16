@@ -1,0 +1,11 @@
+.help {
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+
+.help__title {
+     @include title_1
+}
+.help__text {
+    @include text_1
+}
